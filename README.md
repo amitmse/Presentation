@@ -1,3 +1,7 @@
+
+https://github.com/amitmse/in_SAS_/tree/master/Presentation
+
+
 # ------------- Shortcuts ---------------------------------
 CTRL + SHIFT 		  = Copy with aligned (or reduce the size on one graph ) \
 CTRL + D			    = Smart Copy. Duplicate the selected object or slide \
